@@ -1,0 +1,14 @@
+127.0.0.1 - - [18/Mar/2018:21:22:14 +0530] "GET /login HTTP/1.1" 200 406 http-bio-8080-exec-1 324
+127.0.0.1 - - [18/Mar/2018:21:22:15 +0530] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8080-exec-2 13
+127.0.0.1 - - [18/Mar/2018:21:22:15 +0530] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8080-exec-3 4
+127.0.0.1 - - [18/Mar/2018:21:22:22 +0530] "POST /login HTTP/1.1" 200 238 http-bio-8080-exec-4 1550
+127.0.0.1 - - [18/Mar/2018:21:23:04 +0530] "POST /login HTTP/1.1" 200 245 http-bio-8080-exec-5 95
+127.0.0.1 - - [18/Mar/2018:21:23:06 +0530] "GET /list-todos HTTP/1.1" 200 524 http-bio-8080-exec-6 91
+127.0.0.1 - - [18/Mar/2018:21:23:11 +0530] "GET /list-todos HTTP/1.1" 200 524 http-bio-8080-exec-7 6
+127.0.0.1 - - [18/Mar/2018:21:23:12 +0530] "GET /list-todos HTTP/1.1" 200 524 http-bio-8080-exec-8 4
+127.0.0.1 - - [18/Mar/2018:21:23:13 +0530] "GET /list-todos HTTP/1.1" 200 524 http-bio-8080-exec-9 5
+127.0.0.1 - - [18/Mar/2018:21:25:54 +0530] "GET /list-todos HTTP/1.1" 200 528 http-bio-8080-exec-1 75
+127.0.0.1 - - [18/Mar/2018:21:26:14 +0530] "GET /list-todos HTTP/1.1" 200 534 http-bio-8080-exec-2 87
+127.0.0.1 - - [18/Mar/2018:21:26:36 +0530] "GET /login HTTP/1.1" 200 406 http-bio-8080-exec-2 3
+127.0.0.1 - - [18/Mar/2018:21:26:42 +0530] "POST /login HTTP/1.1" 200 228 http-bio-8080-exec-2 67
+127.0.0.1 - - [18/Mar/2018:21:26:45 +0530] "GET /list-todos HTTP/1.1" 200 534 http-bio-8080-exec-2 4

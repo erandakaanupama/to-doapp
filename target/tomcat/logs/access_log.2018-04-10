@@ -1,0 +1,17 @@
+127.0.0.1 - - [10/Apr/2018:18:21:34 +0530] "GET /list-todos HTTP/1.1" 302 - http-bio-8080-exec-2 365
+127.0.0.1 - - [10/Apr/2018:18:21:34 +0530] "GET /list-todos HTTP/1.1" 302 - http-bio-8080-exec-1 2113
+127.0.0.1 - - [10/Apr/2018:18:21:36 +0530] "GET /login HTTP/1.1" 200 535 http-bio-8080-exec-4 649
+127.0.0.1 - - [10/Apr/2018:18:21:49 +0530] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8080-exec-5 1062
+127.0.0.1 - - [10/Apr/2018:18:21:49 +0530] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8080-exec-6 5
+127.0.0.1 - - [10/Apr/2018:18:22:01 +0530] "POST /login HTTP/1.1" 302 - http-bio-8080-exec-7 73
+127.0.0.1 - - [10/Apr/2018:18:22:02 +0530] "GET /list-todos HTTP/1.1" 200 1898 http-bio-8080-exec-8 695
+127.0.0.1 - - [10/Apr/2018:18:22:03 +0530] "GET /webjars/bootstrap/3.3.6/css/bootstrap.min.css HTTP/1.1" 200 121260 http-bio-8080-exec-10 526
+127.0.0.1 - - [10/Apr/2018:18:22:03 +0530] "GET /webjars/bootstrap/3.3.6/js/bootstrap.min.js HTTP/1.1" 200 36868 http-bio-8080-exec-1 524
+127.0.0.1 - - [10/Apr/2018:18:22:03 +0530] "GET /webjars/jquery/1.9.1/jquery.min.js HTTP/1.1" 200 92629 http-bio-8080-exec-9 531
+127.0.0.1 - - [10/Apr/2018:18:22:07 +0530] "GET / HTTP/1.1" 200 991 http-bio-8080-exec-2 57
+127.0.0.1 - - [10/Apr/2018:18:22:07 +0530] "GET /webjars/bootstrap/3.3.6/css/bootstrap.min.css HTTP/1.1" 200 121260 http-bio-8080-exec-5 8
+127.0.0.1 - - [10/Apr/2018:18:22:07 +0530] "GET /webjars/bootstrap/3.3.6/js/bootstrap.min.js HTTP/1.1" 200 36868 http-bio-8080-exec-9 4
+127.0.0.1 - - [10/Apr/2018:18:22:07 +0530] "GET /webjars/jquery/1.9.1/jquery.min.js HTTP/1.1" 200 92629 http-bio-8080-exec-3 8
+127.0.0.1 - - [10/Apr/2018:18:22:09 +0530] "GET /logout HTTP/1.1" 302 - http-bio-8080-exec-6 9
+127.0.0.1 - - [10/Apr/2018:18:22:09 +0530] "GET / HTTP/1.1" 302 - http-bio-8080-exec-6 4
+127.0.0.1 - - [10/Apr/2018:18:22:09 +0530] "GET /login HTTP/1.1" 200 535 http-bio-8080-exec-1 2

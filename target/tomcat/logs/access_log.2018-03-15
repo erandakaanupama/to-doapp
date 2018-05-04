@@ -1,0 +1,5 @@
+127.0.0.1 - - [15/Mar/2018:17:18:42 +0530] "GET /favicon.ico HTTP/1.1" 404 949 http-bio-8080-exec-1 393
+127.0.0.1 - - [15/Mar/2018:17:18:45 +0530] "GET /login HTTP/1.1" 200 406 http-bio-8080-exec-2 226
+127.0.0.1 - - [15/Mar/2018:17:18:51 +0530] "POST /login HTTP/1.1" 200 182 http-bio-8080-exec-3 158
+127.0.0.1 - - [15/Mar/2018:17:19:38 +0530] "POST /login HTTP/1.1" 200 182 http-bio-8080-exec-4 4
+127.0.0.1 - - [15/Mar/2018:17:19:44 +0530] "GET /login HTTP/1.1" 200 406 http-bio-8080-exec-5 3
